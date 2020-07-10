@@ -13,5 +13,6 @@ Campus
 ## Connect me via
 1. [Github](https://github.com/truongphi00)
 2. [Facebook](https://www.facebook.com/KumaYukito/)
+3. [Email](mail: kumayukito112@gmail.com)
 
-#### © 2020 by Nguyễn Trường Phi
+#### © 2020 by Nguyễn Trường Phi | FPT University - HCMC Campus
