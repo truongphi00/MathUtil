@@ -48,6 +48,7 @@ public class MathUtilTest {
         //trong khi đó ném ra ngoại lệ k phải là actual value để so
         //ta phải xài chiêu khác khi bắt ngoại lệ có đúng k
         computeFactorial(-5);
+        computeFactorial(16); //giai thừa tăng rất nhanh, k chơi quá 15
     }
     
     //code có thể còn tiềm ẩn lỗi nhưng Clean & Build luôn ra file.jar
